@@ -8,7 +8,8 @@ Analysis is to be completed using Python and Jupyter Notebook.  Scope of analysi
   * Visuals to understand weekly fare data by city type.
 
 ## Results
-###Total Rides by City Type
+ * City Type Data - The current business model is heavily utilized and operating within the Urban areas and usage reduces and fare cost increases with the move from the most urban areas out to the rural areas.  
+
 
 
 
